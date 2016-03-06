@@ -1,1 +1,0 @@
-require "redux_rails/version"
