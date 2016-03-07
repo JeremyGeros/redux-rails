@@ -1,5 +1,5 @@
 module Redux
   module Rails
-    VERSION = "3.0.5"
+    VERSION = "3.3.1"
   end
 end
